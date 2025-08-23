@@ -1,0 +1,23 @@
+@keyframes float {
+  0% {
+    transform: translateX(0);
+  }
+  50% {
+    transform: translateX(-5%);
+  }
+  100% {
+    transform: translateX(0);
+  }
+}
+
+.cloud-animation {
+  animation: float 20s ease-in-out infinite;
+}
+
+.cloud-animation-slow {
+  animation: float 30s ease-in-out infinite;
+}
+
+.cloud-animation-slower {
+  animation: float 40s ease-in-out infinite;
+}
