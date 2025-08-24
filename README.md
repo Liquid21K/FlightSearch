@@ -38,7 +38,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 Previews: 
 Main page:
-![Image]([https://github.com/Liquid21K/FlightSearch/blob/main/previews/Main%20Page.png])
+<img width="1902" height="928" alt="Main Page" src="https://github.com/user-attachments/assets/07d375a8-6296-44bd-833b-4ee282efddee" />
+
 
 
 
